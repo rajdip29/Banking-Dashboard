@@ -108,3 +108,7 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 > Final insights from EDA, including correlations and demographic trends.  
 
 <img src="page4_summary.png" alt="Page 4 - Summary" width="700"/>
+
+## 🤝 Connect  
+If you find this project helpful, feel free to ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/rajdip-dutta07/).
+
